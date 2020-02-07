@@ -1,4 +1,4 @@
-# WidCoin
+# WidCoin  <link rel="shortcut icon" href="/img/Logo WDC.png">
 
 The Crypto Curencie of the future.<br>
 Payments of Cannabis in Holland and Spain.<br>
