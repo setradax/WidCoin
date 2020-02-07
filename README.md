@@ -1,5 +1,5 @@
-# WidCoin  <img href="/img/Logo WDC.png">
-
+# WidCoin  
+<img href="/img/Logo WDC.png">
 The Crypto Curencie of the future.<br>
 Payments of Cannabis in Holland and Spain.<br>
 And you can earn 3% in Widcoin whyle keeping WidCoin in your wallet, every week automatic payout.<br><br>
