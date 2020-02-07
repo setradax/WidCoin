@@ -6,4 +6,4 @@ And you can earn 3% in Widcoin whyle keeping WidCoin in your wallet, every week 
 
 First Airdrop 01-03-2020
 Add WidCoin to your Metamask wallet and recieve automatic 3% of WidCoin.<br>
-Etherscan Address Widcoin - <a href="hhttps://etherscan.io/token/0x38ac393dA4765a94e96998B556BF463876375662?a=0x5d14997ae323cec7089628bf63ea2a806d08ca68" target="_blank">Etherscan</a>
+Etherscan Address Widcoin - hhttps://etherscan.io/token/0x38ac393dA4765a94e96998B556BF463876375662?a=0x5d14997ae323cec7089628bf63ea2a806d08ca68
